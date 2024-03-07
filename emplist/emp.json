@@ -1,0 +1,21 @@
+{
+"Sheet1":[
+ {
+  "Emp_Code": 123,
+  "Emp_Name": "abc",
+  "Designation": "HR"
+ },
+ {
+  "Emp_Code": 345,
+  "Emp_Name": "def",
+  "Designation": "Employee"
+ },
+ {
+  "Emp_Code": 675,
+  "Emp_Name": "abf",
+  "Designation": "HR"
+ }
+],
+"Sheet2":[],
+"Sheet3":[]
+}
